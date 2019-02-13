@@ -1,4 +1,4 @@
-package com.drozd.hello_world_microservice;
+package com.drozd.hello_world_microservice.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
